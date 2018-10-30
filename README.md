@@ -1,4 +1,4 @@
-# ImageXORingTool
+# ImageXORingTool    xoling loling
 Java Code for XORing multiple images<br/>
 How to use?<br/>
 1) First complie this java codes<br/>
